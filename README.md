@@ -4,6 +4,8 @@ Jenkins Shared Library in Groovy.
 ## Library
 `@Library('jenkins-library')`
 
+Mapping the `jenkins-library` library name from Jenkins Configure.
+
 ## Example
 
 `getChangeString`
